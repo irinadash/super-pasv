@@ -1,0 +1,10 @@
+{
+  "name": "super-pasv-my",
+  "version": "1.0.0",
+  "description": "API test at PASV",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irina Dash",
+  "license": "ISC"
+}
